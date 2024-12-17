@@ -1,10 +1,19 @@
-# Gym Management System
+# Flask Multi-Page Website
 
-## Project Overview
-A simple Gym Management System website built with **Flask, HTML, and CSS**.  
-It includes:
-- **Home Page**: Displays welcome messages and gym highlights.
-- **About Us Page**: Shares gym's mission, team, and facilities.
-- **Membership Page**: Showcases membership plans and services.
+## About  
+This is a simple multi-page website built with **Flask** (Python) and basic **HTML/CSS**. It includes simulated login and registration pages (no real data storage).  
 
-## Project Structure
+## Features  
+- **Home**: Welcome page with navigation links.  
+- **About**: Info about the website.  
+- **Services**: List of services.  
+- **Gallery**: Grid of images.  
+- **Contact**: Form with Name, Email, and Message.  
+- **Login**: Username and Password form.  
+- **Register**: Full Name, Email, Username, and Password form.  
+
+## How to Run  
+1. Install Flask:  
+   ```bash
+   pip install flask
+    ```
